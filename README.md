@@ -1,3 +1,5 @@
+I will upload the recommendation model later
+
 # Light Novel Recommendation System 📚
 
 An intelligent, NLP-powered recommendation engine designed to suggest light novels based on storyline, themes, and user preferences. 
