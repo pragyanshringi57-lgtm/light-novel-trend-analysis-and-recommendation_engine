@@ -1,4 +1,4 @@
-I will upload the recommendation model later currently p=optimizing it
+I will upload the recommendation model later currently optimizing it
 
 # Light Novel Recommendation System 📚
 
